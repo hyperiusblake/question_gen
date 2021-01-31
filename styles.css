@@ -1,0 +1,43 @@
+h1, h3 {
+    font-family: 'Staatliches', cursive;
+      color: black;
+      text-align: center;
+  }
+  .title {
+      font-size: 55px;
+  }
+  body {
+      background-color: silver;
+      font-weight: bold;
+      text-align: center;
+    }
+  .id {
+      text-size-adjust: 50px;
+      color: rgb(46, 26, 182);
+      font: outline 5px;
+  }
+  .card {
+    background-color: white;
+    width: 25%;
+    margin: 0 auto;
+     box-shadow: 10px 10px 7.5px grey;
+    transition: 0.3s;
+    border-radius: 15px 50px 30px;
+    border-style: solid;
+    padding: 30px;
+    font-family: 'Henny Penny', cursive;
+  
+  }
+  button {
+      size: 50px;
+      margin: 5px;
+      border-color: black;
+      font-family: 'Staatliches', cursive;
+  }
+  i {
+      color: black;
+  }
+  .space { margin-top: 150px; 
+  }
+  .space2 { margin-top: 50px;
+  }
